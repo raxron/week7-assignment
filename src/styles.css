@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.article {
+  text-align: left;
+  box-shadow: 0 1px 2px #555;
+  padding: 5px 10px;
+  margin-bottom: 1rem;
+}
+.article a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+.article h3 {
+  text-align: center;
+  text-transform: capitalize;
+}
